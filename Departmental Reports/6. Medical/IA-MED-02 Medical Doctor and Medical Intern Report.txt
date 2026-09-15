@@ -1,0 +1,31 @@
+# IA-MED-02 Medical Doctor and Medical Intern Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5b97bc]Medical Doctor[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5b97bc]MED-02[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5b97bc]Medical Doctor and Medical Intern[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5b97bc]Medical Doctor and Medical Intern[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Medical Doctor / Medical Intern[/head][/color]
+[check] 1a. The [color=#5b97bc]Doctor[/color] failed to treat patients admitted to the [color=#5b97bc]Medical bay[/color].
+[check] 1b. The [color=#5b97bc]Doctor[/color] left the [color=#5b97bc]Medical[/color] department while there were untreated patients present.
+[check] 1c. The [color=#5b97bc]Doctor[/color] failed to follow guidance from the [color=#5b97bc]Chief Medical Officer[/color] regarding the priority of treatment during a mass-casualty event.
+[check] 2a. The [color=#5b97bc]Doctor[/color] treated a patient with anything more intense than a minor injury without a private room.
+[check] 2b. The [color=#5b97bc]Doctor[/color] failed to admit [color=#1b67a5]Command personnel[/color] to a private room for treatment.
+[check] 3a. The [color=#5b97bc]Doctor[/color] disposed of unrevivable cadavers in contradiction to their postmortem instructions.
+[check] 3b. In the absence of postmortem instructions or in the presence of impractical postmortem instructions, the [color=#5b97bc]Doctor[/color] failed to store the cadaver in the morgue or, failing that, a body bag.
+[check] 4. The [color=#5b97bc]Doctor[/color] failed to keep at least one defibrillator charged and inside the [color=#5b97bc]Medical bay[/color].
+[check] 5. The [color=#5b97bc]Doctor[/color] failed to keep the [color=#5b97bc]Medical bay[/color] and all used equipment in compliance with NanoTrasen Cleanliness Regulations.
+
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

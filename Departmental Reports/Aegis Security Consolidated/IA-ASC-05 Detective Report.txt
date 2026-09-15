@@ -1,0 +1,24 @@
+# IA-ASC-05 Detective Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#cb0000]Detective[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#cb0000]ASC-05[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#cb0000]Detective[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#cb0000]Detective[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Detective[/head][/color]
+[check] 1a. The [color=#cb0000]Detective[/color] failed to focus on gathering evidence for ongoing investigations or court procedures.
+[check] 1b. The [color=#cb0000]Detective[/color] failed to avoid performing arrests unless completely necessary.
+[check] 2. The [color=#cb0000]Detective[/color] ignored uniform procedure without approval from the [color=#cb0000]Commandant[/color].
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

@@ -1,0 +1,27 @@
+﻿# IA-CMD-02 Captain Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#1b67a5]Captain[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#1b67a5]CMD-02[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#1b67a5]Captain[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#1b67a5]Captain[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Captain[/head][/color]
+[check] 1. The [color=#1b67a5]Captain[/color] failed to oversee [color=#1b67a5]Command Personnel[/color] to assure that all departments were performing their assigned duties adequately.
+[check] 2. The [color=#1b67a5]Captain[/color] failed to coordinate with [color=#1b67a5]Command Personnel[/color] regarding potential disruptions to operations.
+[check] 3. The [color=#1b67a5]Captain[/color] failed to ensure that issues which arise between [color=#1b67a5]Command Personnel[/color] are resolved.
+[check] 4. The [color=#1b67a5]Captain[/color] failed to ensure that the crew stays loyal to NanoTrasen and its business interests.
+[check] 5. The [color=#1b67a5]Captain[/color] failed to ensure that Nanotrasen Colonial Law and Procedure is being enforced.
+[check] 6. The [color=#1b67a5]Captain[/color] failed to ensure the safety of the nuclear authentication disk.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

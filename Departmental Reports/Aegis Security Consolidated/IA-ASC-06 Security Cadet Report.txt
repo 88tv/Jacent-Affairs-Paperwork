@@ -1,0 +1,23 @@
+# IA-ASC-06 Security Cadet Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#cb0000]Security Cadet[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#cb0000]ASC-06[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#cb0000]Security Cadet[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#cb0000]Security Cadet[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Security Cadet[/head][/color]
+[check] 1. The [color=#cb0000]Security Cadet[/color] was not accompanied by at least one [color=#cb0000]Security Officer[/color], [color=#cb0000]Lieutenant[/color], or [color=#cb0000]Detective[/color] while on patrol.
+[check] 2. The [color=#cb0000]Security Cadet[/color] carried firearms without approval from the [color=#cb0000]Commandant[/color].
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

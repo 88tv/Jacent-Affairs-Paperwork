@@ -1,0 +1,28 @@
+# IA-ASC-02 Commandant Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#cb0000]Commandant[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#cb0000]ASC-02[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#cb0000]Commandant[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#cb0000]Commandant[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Commandant[/head][/color]
+[check] 1a. The [color=#cb0000]Commandant[/color] failed to ensure that [color=#cb0000]A.S.C.[/color] meets the arrest quota within ninety minutes of the start of the shift.
+[check] 1b. The [color=#cb0000]Commandant[/color] failed to fax all arrest reports received to the [color=#886e6a]Executive Officer[/color].
+[check] 2a. The [color=#cb0000]Commandant[/color] failed to assign all [color=#cb0000]Security Officers[/color] and [color=#cb0000]Cadets[/color] to a squad led by a [color=#cb0000]Lieutenant[/color].
+[check] 2b. While facing a complete lack of [color=#cb0000]Lieutenants[/color], the [color=#cb0000]Commandant[/color] failed to promote a [color=#cb0000]Security Officer[/color] to an [color=#cb0000]Acting Lieutenant[/color] position.
+[check] 3. The [color=#cb0000]Commandant[/color] failed to secure weapons, ammunition, body armor, shields, and implants not in use within the [color=#cb0000]armory[/color].
+[check] 5. The [color=#cb0000]Commandant[/color] failed to monitor and properly respond to hostile actions taken by NanoTrasen Workers' Unions.
+[check] 6. The [color=#cb0000]Commandant[/color] failed to ensure a peaceful transition of power concerning promotions or demotions to, from, or within [color=#1b67a5]Command[/color].
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

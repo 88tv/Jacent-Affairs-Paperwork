@@ -1,0 +1,26 @@
+# IA-CMD-09 Corporate Liaison Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#009100]Corporate Liaison[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#009100]CMD-09[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#009100]Corporate Liaison[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#009100]Corporate Liaison[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Corporate Liaison[/head][/color]
+[check] 1. The [color=#009100]Corporate Liaison[/color] failed to represent the interests of NanoTrasen's Central Command.
+[check] 2. The [color=#009100]Corporate Liaison[/color] failed to file and fax to central command detailed reports on each other [color=#1b67a5]Command[/color] member's conduct, efficiency, and loyalty.
+[check] 3a. The [color=#009100]Corporate Liaison[/color] failed to represent [color=#1b67a5]Command[/color] in communications between them and station unions.
+[check] 3b. The [color=#009100]Corporate Liaison[/color] failed to defer to the [color=#1b67a5]Captain[/color] regarding actions taken as a result of communications between [color=#1b67a5]Command[/color] and station unions.
+[check] 4. The [color=#009100]Corporate Liaison[/color] failed to communicate with Central Command in the event of a major disruption to station productivity.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

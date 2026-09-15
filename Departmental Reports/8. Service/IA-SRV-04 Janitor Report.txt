@@ -1,0 +1,26 @@
+# IA-SRV-04 Janitor Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5aa912]Janitor[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5aa912]SRV-04[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5aa912]Janitor[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5aa912]Janitor[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Janitor[/head][/color]
+[check] 1. The [color=#5aa912]Janitor[/color] failed to maintain publicly accessible halls and rooms of the station in accordance with NanoTrasen Cleanliness Regulations.
+[check] 2a. The [color=#5aa912]Janitor[/color] failed to respond to departmental cleaning requests within fifteen minutes of the initial request.
+[check] 2b. While acting on departmental cleaning requests, the [color=#5aa912]Janitor[/color] failed to bring the department into compliance with NanoTrasen Cleanliness Regulations.
+[check] 3. The [color=#5aa912]Janitor[/color] failed to prioritize the neutralizing of any possible biohazards over other duties.
+[check] 4. The [color=#5aa912]Janitor[/color] failed to inform the [color=#b18644]Engineering[/color] department of structural damage witnessed while on duty.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

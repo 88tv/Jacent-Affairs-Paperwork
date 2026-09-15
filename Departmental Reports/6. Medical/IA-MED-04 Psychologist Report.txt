@@ -1,0 +1,26 @@
+# IA-MED-04 Psychologist Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5b97bc]Psychologist[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5b97bc]MED-04[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5b97bc]Psychologist[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5b97bc]Psychologist[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Psychologist[/head][/color]
+[check] 1. The [color=#5b97bc]Psychologist[/color] forced treatment upon a patient without the presence of a criminal sentence or a reasonable cause otherwise.
+[check] 2a. The [color=#5b97bc]Psychologist[/color] shared the details of a patient's medical condition to anyone other than the patient, the [color=#5b97bc]Chief Medical Officer[/color], the patient's departmental head, and the [color=#cb0000]Security[/color] department.
+[check] 2b. The [color=#5b97bc]Psychologist[/color] failed to report personnel who are a potential danger to themselves or others to [color=#cb0000]Security[/color].
+[check] 3a. The [color=#5b97bc]Psychologist[/color] failed to report to the relevant head of staff upon finding a non-command member of the crew unfit for duty.
+[check] 3b. The [color=#5b97bc]Psychologist[/color] issued a formal diagnosis finding a [color=#1b67a5]Command[/color] member unfit for duty.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

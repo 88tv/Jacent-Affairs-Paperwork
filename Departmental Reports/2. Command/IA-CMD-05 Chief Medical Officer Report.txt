@@ -1,0 +1,25 @@
+# IA-CMD-05 Chief Medical Officer Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5b97bc]C.M.O.[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5b97bc]CMD-05[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5b97bc]Chief Medical Officer[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5b97bc]Chief Medical Officer[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Chief Medical Officer[/head][/color]
+[check] 1a. The [color=#5b97bc]Chief Medical Officer[/color] failed to ensure that all living or dead medical patients are treated such that they may return to work.
+[check] 1b. The [color=#5b97bc]Chief Medical Officer[/color] failed to prioritize the treatment of [color=#1b67a5]Command personnel[/color] over all others, and [color=#cb0000]Security[/color] personnel over other members of the crew besides [color=#1b67a5]Command[/color].
+[check] 2. The [color=#5b97bc]Chief Medical Officer[/color] failed to ensure that the [color=#5b97bc]Medical[/color] department complies with the NanoTrasen Cleanliness Regulations.
+[check] 3. The [color=#5b97bc]Chief Medical Officer[/color] failed to perform psychiatric evaluations on [color=#1b67a5]Command personnel[/color] when their mental fitness for duty is brought into question.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

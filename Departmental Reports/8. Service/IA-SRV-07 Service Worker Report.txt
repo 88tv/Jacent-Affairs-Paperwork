@@ -1,0 +1,23 @@
+# IA-SRV-07 Service Worker Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5aa912]Service Worker[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5aa912]SRV-07[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5aa912]Service Worker[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5aa912]Service Worker[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Service Worker[/head][/color]
+[check] 1. The [color=#5aa912]Service Worker[/color] failed to assist other members of the [color=#5aa912]Service[/color] department upon request.
+[check] 2. The [color=#5aa912]Service Worker[/color] failed to abide by the S.O.P. of the position they are substituting for.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

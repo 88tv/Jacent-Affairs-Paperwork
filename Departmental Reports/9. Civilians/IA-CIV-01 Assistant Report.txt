@@ -1,0 +1,24 @@
+# IA-CIV-01 Assistant Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#696969]Assistant[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#696969]CIV-01[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#696969]Assistant[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#696969]Assistant[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Assistant[/head][/color]
+[check] 1. The [color=#696969]Assistant[/color] failed to apply for open positions with the [color=#886e6a]Executive Officer[/color].
+[check] 2. The [color=#696969]Assistant[/color] failed to make themselves available to assist working staff.
+[check] 3. The [color=#696969]Assistant[/color] pursued unorthodox business ventures without approval from the [color=#886e6a]Executive Officer[/color] or the [color=#1b67a5]Captain[/color].
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

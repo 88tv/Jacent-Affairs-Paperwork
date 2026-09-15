@@ -1,0 +1,28 @@
+# IA-LOG-02 Cargo Technician Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#b18644]Cargo Technician[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#b18644]LOG-02[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#b18644]Cargo Technician[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#b18644]Cargo Technician[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Cargo Technician[/head][/color]
+[check] 1a. The [color=#b18644]Cargo Technician[/color] failed to deliver approved orders within fifteen minutes of approval.
+[check] 1b. The [color=#b18644]Cargo Technician[/color] failed to deliver orders for items produced on the station within ten minutes of production.
+[check] 2a. The [color=#b18644]Cargo Technician[/color] approved orders for non-essential items without approval from the [color=#b18644]Quartermaster[/color].
+[check] 2b. The [color=#b18644]Cargo Technician[/color] approved orders for any item in the Armory or Security categories without approval from the [color=#b18644]Quartermaster[/color].
+[check] 3a. The [color=#b18644]Cargo Technician[/color] failed to have a delivery's order form stamped or signed by its recipient.
+[check] 3b. The [color=#b18644]Cargo Technician[/color] failed to have a copy of a stamped or signed delivery form provided to the [color=#b18644]Quartermaster[/color].
+[check] 4. The [color=#b18644]Cargo Technician[/color] failed to restock publicly accessible vending machines which are out of stock for any item which it dispenses.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

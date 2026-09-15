@@ -1,0 +1,27 @@
+# IA-CMD-03 Executive Officer Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#886e6a]Executive Officer[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form CMD-03 [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#886e6a]Executive Officer[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#886e6a]Executive Officer[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Executive Officer[/head][/color]
+[check] 1. The [color=#886e6a]Executive Officer[/color] failed to maintain a copy of all paperwork created within the course of the operation of [color=#1b67a5]Command[/color] and [color=#886e6a]Internal Affairs[/color].
+[check] 2. The [color=#886e6a]Executive Officer[/color] failed to monitor major legal decisions.
+[check] 3. The [color=#886e6a]Executive Officer[/color] provided personnel access to departments without authorization from that department's head.
+[check] 4. The [color=#886e6a]Executive Officer[/color] failed to escalate major violations of operating procedure to the [color=#1b67a5]Captain[/color] when it was unable to be resolved by other means.
+[check] 5. The [color=#886e6a]Executive Officer[/color] approved invalid or frivolous search warrants for [color=#cb0000]Security[/color] personnel.
+[check] 6. The [color=#886e6a]Executive Officer[/color] failed to approve orders for [color=#cb0000]Security[/color] on the Station Defense Reserves budget which aligned with NanoTrasen's business interests.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

@@ -1,0 +1,25 @@
+# IA-MED-03 Paramedic Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5b97bc]Paramedic[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5b97bc]MED-03[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5b97bc]Paramedic[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5b97bc]Paramedic[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Paramedic[/head][/color]
+[check] 1a. The [color=#5b97bc]Paramedic[/color] failed to retrieve critically injured or deceased personnel in a timely manner.
+[check] 1b. The [color=#5b97bc]Paramedic[/color] failed to resuscitate and stabilize patients before bringing them to the [color=#5b97bc]Medical bay[/color].
+[check] 1c. The [color=#5b97bc]Paramedic[/color] ignored the [color=#5b97bc]Chief Medical Officer[/color]'s guidance concerning the priority of injured or deceased personnel retrievals.
+[check] 2. The [color=#5b97bc]Paramedic[/color] failed to carry bruise packs, blood packs, a medical stimulant, and a rollerbed at all times.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

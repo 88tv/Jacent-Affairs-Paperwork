@@ -1,0 +1,26 @@
+# IA-SRV-02 Chef Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5aa912]Chef[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5aa912]SRV-02[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5aa912]Chef[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5aa912]Chef[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Chef[/head][/color]
+[check] 1. The [color=#5aa912]Chef[/color] failed to take and serve orders in a timely manner.
+[check] 2. The [color=#5aa912]Chef[/color] failed to dispose of food not consumed within fifteen minutes of production.
+[check] 3. The [color=#5aa912]Chef[/color] failed to keep the kitchen open during all union-mandated breaks, with exception made for [color=#5aa912]Service[/color] department breaks.
+[check] 4. The [color=#5aa912]Chef[/color] consumed food within view of patrons while working.
+[check] 5. The [color=#5aa912]Chef[/color] failed to ensure that the kitchen complies with NanoTrasen Cleanliness Regulations.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

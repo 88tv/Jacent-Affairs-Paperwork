@@ -1,0 +1,24 @@
+# IA-SRV-03 Clown Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#FF2FFF]Clown[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#FF2FFF]SRV-03[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#FF2FFF]Clown[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#FF2FFF]Clown[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Clown[/head][/color]
+[check] 1. The [color=#FF2FFF]Clown[/color] removed their costume's shoes or mask without due cause.
+[check] 2. The [color=#FF2FFF]Clown[/color] endangered personnel with pranks.
+[check] 3. The [color=#FF2FFF]Clown[/color] failed to try to be funny or entertaining to other personnel at least once every fifteen minutes.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

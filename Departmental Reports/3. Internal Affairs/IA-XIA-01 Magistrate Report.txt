@@ -1,0 +1,28 @@
+# IA-XIA-01 Magistrate Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#886e6a]Magistrate[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form XIA-01 [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#886e6a]Magistrate[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#886e6a]Magistrate[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Magistrate[/head][/color]
+[check] 1. The [color=#886e6a]Magistrate[/color] failed to hold court hearings and trials in accordance with NCLP Article 5.
+[check] 2a. The [color=#886e6a]Magistrate[/color] failed to ensure that hearings and trials are fast and efficient.
+[check] 2b. The [color=#886e6a]Magistrate[/color] failed to ensure that hearings and trials are as thorough as necessary.
+[check] 2c. The [color=#886e6a]Magistrate[/color] used time and resources on frivolous cases.
+[check] 2d. The [color=#886e6a]Magistrate[/color] failed to maintain the type of proceeding in a hearing or trial in accordance with its severity and importance.
+[check] 2e. The [color=#886e6a]Magistrate[/color]'s court proceedings unduly impacted station productivity.
+[check] 3. The [color=#886e6a]Magistrate[/color] failed to communicate with the [color=#886e6a]Executive Officer[/color] regarding major court decisions.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

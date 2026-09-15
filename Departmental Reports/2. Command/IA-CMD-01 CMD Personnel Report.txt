@@ -1,0 +1,30 @@
+﻿# IA-CMD-01 Command Personnel Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#1b67a5]CMD Personnel[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#1b67a5]CMD-01[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to [color=#1b67a5]command personnel[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to these generic [color=#1b67a5]command[/color] items should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Command Personnel[/head][/color]
+[check] 1a. The [color=#1b67a5]Command Personnel[/color] failed to maintain the operational efficiency and safety of their department.
+[check] 1b. The [color=#1b67a5]Command Personnel[/color] failed to ensure that their department's assets were in working condition.
+[check] 1c. The [color=#1b67a5]Command Personnel[/color] failed to ensure that their employees were following relevant procedure.
+[check] 1d. The [color=#1b67a5]Command Personnel[/color] failed to communicate or coordinate with other departments.
+[check] 1e. The [color=#1b67a5]Command Personnel[/color] improperly used or distributed their position's equipment.
+[check] 2. The [color=#1b67a5]Command Personnel[/color] failed to uphold NanoTrasen's authority and dignity.
+[check] 3a. The [color=#1b67a5]Command Personnel[/color] breached confidentiality concerning NanoTrasen Corporate Secrets.
+[check] 3b. The [color=#1b67a5]Command Personnel[/color] failed to report breaches of confidentiality to the [color=#1b67a5]Captain[/color] and the [color=#009100]Corporate Liaison[/color].
+[check] 4. The [color=#1b67a5]Command Personnel[/color] failed to create paperwork regarding the employment, promotion, demotion, or firing of personnel within their department and copy it to the [color=#886e6a]Executive Officer[/color].
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

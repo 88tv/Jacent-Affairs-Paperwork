@@ -1,0 +1,28 @@
+# IA-MED-01 Chemist Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5b97bc]Chemist[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5b97bc]MED-01[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5b97bc]Chemist[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5b97bc]Chemist[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Chemist[/head][/color]
+[check] 1a. The [color=#5b97bc]Chemist[/color] failed to provide the [color=#5b97bc]medical bay[/color] with chemicals capable of treating brute, burn, asphyxiation, bloodloss, and toxin damage.
+[check] 1b. The [color=#5b97bc]Chemist[/color] failed to prioritize providing the [color=#5b97bc]medical bay[/color] with chemicals pursuant to [color=#5b97bc]Chemist[/color] S.O.P. line 1 while working.
+[check] 2. The [color=#5b97bc]Chemist[/color] created mixes intended to treat more than one type of damage without approval from the [color=#5b97bc]Chief Medical Officer[/color].
+[check] 3. The [color=#5b97bc]Chemist[/color] failed to report strange, unusual, or unknown chemicals they create or receive to the [color=#5b97bc]Chief Medical Officer[/color].
+[check] 4. The [color=#5b97bc]Chemist[/color] failed to ensure that their laboratory and used equipment complies with NanoTrasen Cleanliness Regulations.
+[check] 5. The [color=#5b97bc]Chemist[/color] provided the crew with chemicals that are toxic, flammable, water-reactive, classified under [color=#5b97bc]Chemist[/color] S.O.P. line 3, or otherwise hazardous. 
+
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

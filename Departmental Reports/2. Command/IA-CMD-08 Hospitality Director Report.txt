@@ -1,0 +1,29 @@
+# IA-CMD-08 Hospitality Director Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5aa912]Hospitality Dir.[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5aa912]CMD-08[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5aa912]Hospitality Director[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5aa912]Hospitality Director[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Hospitality Director[/head][/color]
+[check] 1a. The [color=#5aa912]Hospitality Director[/color] failed to organize a menu for the Service department.
+[check] 1b. The [color=#5aa912]Hospitality Director[/color] failed to distribute their menu to the bar, kitchen, and the patrons of the bar and the kitchen.
+[check] 1c. The [color=#5aa912]Hospitality Director[/color] failed to contain on the menu at least one food item and one drink item which can be safely consumed by any species.
+[check] 2. The [color=#5aa912]Hospitality Director[/color] failed to ensure that food, drink, and entertainment are provided to the crew during union-mandated breaks.
+[check] 3. The [color=#5aa912]Hospitality Director[/color] failed to schedule events.
+[check] 4a. The [color=#5aa912]Hospitality Director[/color] ran advertising campaigns which disrupt the work of other departments.
+[check] 4b. The [color=#5aa912]Hospitality Director[/color] ran advertising campaigns which do not promote products in a manner consistent with NanoTrasen's business interests.
+[check] 4c. The [color=#5aa912]Hospitality Director[/color] ran unprofitable advertising campaigns.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

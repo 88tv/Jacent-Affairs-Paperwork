@@ -1,0 +1,28 @@
+# IA-CMD-07 Quartermaster Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#b18644]Quartermaster[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#b18644]CMD-07[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#b18644]Quartermaster[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#b18644]Quartermaster[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Quartermaster[/head][/color]
+[check] 1. The [color=#b18644]Quartermaster[/color] failed to ensure that all deliveries are made by their deadlines as determined in [color=#b18644]Cargo Technician[/color] S.O.P. line 1.
+[check] 2a. The [color=#b18644]Quartermaster[/color] approved a non-essential order which used another department's budget without the approval of that department's head.
+[check] 2b. The [color=#b18644]Quartermaster[/color] approved an order for any item in the Armory or Security categories without approval from both the [color=#cb0000]Commandant[/color] and [color=#886e6a]Executive Officer[/color].
+[check] 2c. The [color=#b18644]Quartermaster[/color] approved a purchase on the Station Defense Reserves (SEC) budget without approval from the [color=#886e6a]Executive Officer[/color] or the [color=#1b67a5]Captain[/color].
+[check] 3. The [color=#b18644]Quartermaster[/color] failed to distribute materials which were purchased, collected, or produced by their department based on the other departments' needs.
+[check] 4. The [color=#b18644]Quartermaster[/color] failed to maintain a signed or stamped copy of all order forms.
+[check] 5. The [color=#b18644]Quartermaster[/color] failed to ensure that the mail teleporter is disabled when there is no [color=#b18644]Courier[/color] working on the station.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

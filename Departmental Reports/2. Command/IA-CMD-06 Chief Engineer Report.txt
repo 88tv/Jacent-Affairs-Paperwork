@@ -1,0 +1,29 @@
+# IA-CMD-06 Chief Engineer Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#f39f27]Chief Engineer[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#f39f27]CMD-06[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#f39f27]Chief Engineer[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#f39f27]Chief Engineer[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Chief Engineer[/head][/color]
+[check] 1a. The [color=#f39f27]Chief Engineer[/color] failed to ensure the structural stability of the station.
+[check] 1b. The [color=#f39f27]Chief Engineer[/color] failed to prioritize the station's repairs in the following order: 1. Vault, 2. Bridge, 3. [color=#cb0000]Security[/color] department, 4. Engine rooms, 5. [color=#5b97bc]Medical Bay[/color], 6. All other areas.
+[check] 2. The [color=#f39f27]Chief Engineer[/color] failed to ensure that the air distribution mix is compliant with [color=#f39f27]Station Engineer/Technical Assistant[/color] S.O.P. line 2a.
+[check] 3a. The [color=#f39f27]Chief Engineer[/color] failed to ensure that all active engines are being adequately maintained.
+[check] 3b. The [color=#f39f27]Chief Engineer[/color] failed to provide the [color=#886e6a]Executive Officer[/color] with a report concerning the configuration, upkeep, and any complications concerning the maintenance of all active engines at least once every thirty minutes.
+[check] 4. The [color=#f39f27]Chief Engineer[/color] failed to ensure that their department is preventing and combatting atmospheric hazards on the station.
+[check] 5. The [color=#f39f27]Chief Engineer[/color] failed to clearly indicate a publicly condemned area as hazardous.
+[check] 6. The [color=#f39f27]Chief Engineer[/color] failed to inspect new constructions for adherence to the NanoTrasen Building and Expansion Regulations.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

@@ -1,0 +1,29 @@
+# IA-XIA-02 Internal Affairs Agent Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#886e6a]I.A.A.[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form XIA-02 [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#886e6a]Internal Affairs Agent[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to themselves should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Internal Affairs Agent[/head][/color]
+[check] 1. The [color=#886e6a]Internal Affairs Agent[/color] failed to prioritize answering court summons and requests for representations over all other duties.
+[check] 2a. The [color=#886e6a]Internal Affairs Agent[/color] failed to ensure that Standard Operating Procedure is being properly followed.
+[check] 2b. The [color=#886e6a]Internal Affairs Agent[/color] failed to issue fines for violations of Standard Operating Procedure.
+[check] 2c. The [color=#886e6a]Internal Affairs Agent[/color] failed to notify the appropriate head of staff for violations of Standard Operating Procedure.
+[check] 2d. The [color=#886e6a]Internal Affairs Agent[/color] failed to log violations of Standard Operating Procedure.
+[check] 2e. The [color=#886e6a]Internal Affairs Agent[/color] failed to forward logged violations of Standard Operating Procedure to the [color=#886e6a]Executive Officer[/color].
+[check] 3a. The [color=#886e6a]Internal Affairs Agent[/color] failed to produce a report regarding the conduct, efficiency, and adherence to Standard Operating Procedure for all departments besides Command and Internal Affairs.
+[check] 3b. The [color=#886e6a]Internal Affairs Agent[/color] failed to forward departmental reports created in adherence to I.A.A. Operating Procedure line 3 to the [color=#886e6a]Executive Officer[/color] by the end of the shift.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

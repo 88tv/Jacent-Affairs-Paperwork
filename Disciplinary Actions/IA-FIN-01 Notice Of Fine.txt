@@ -1,0 +1,22 @@
+# IA-FIN-01 Notice Of Fine
+[color=#886e6a]▀█▀░░░ [head=3] Notice Of Fine [/head]
+▄█▄▄▀▄ [bold] Report Form FIN-01 [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the notice of a procedural fine issued due to the [color=#886e6a]Agent[/color]'s recognition of a violation of Standard Operating Procedure. This fine is enforced by Article 3 of Nanotrasen Corporate Law and Procedure; [color=#886e6a]Internal Affairs Agent[/color] S.O.P. 2-a. 
+
+Amounts not able to be withdrawn from your person will be reflected as a negative adjustment in your next paystub. Please seek the [color=#886e6a]Executive Officer[/color] for more information on Operating Procedure and disciplinary actions otherwise.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Amount Of Fine[/head][/color]
+Personnel At Fault: [form]
+Amount: [form] scrip.
+
+[color=#886e6a][head=3]Infraction Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

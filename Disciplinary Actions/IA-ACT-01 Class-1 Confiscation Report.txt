@@ -1,0 +1,34 @@
+# IA-ACT-01 Class-1 Confiscation Report
+[color=#886e6a]▀█▀░░░ [head=3] Class-1 Confiscation Report [/head]
+▄█▄▄▀▄ [bold] Report Form ACT-01 [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the summary report for misconduct which the [color=#1b67a5]Command Signee[/color] has deemed worthy of a class-1 confiscation, enforced through Article 1 of the NanoTrasen Corporate Law and Procedures. 
+
+Disciplinary actions enforced by [color=#886e6a]Internal Affairs Agents[/color] are not valid unless they approved by a relevant [color=#1b67a5]Head of Staff[/color] or the [color=#1b67a5]Captain[/color]. The final severity of the disciplinary action provided is always determined by the [color=#1b67a5]Command[/color] member who signs off on the action.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Command Signee[/head][/color]
+Signature: [signature]
+Position: [form]
+
+[color=#886e6a][head=3]Corporate Misconduct Category[/head][/color]
+[check] 1. Insubordination.
+[check] 2. Violation of Standard Operating Procedure.
+[check] 3. Theft of Departmental Property.
+[check] 4. Damage to Assigned Company Equipment.
+[check] 5. Fraud.
+[check] 6. Incompetence.
+
+[color=#886e6a][head=3]Item Of Confiscation[/head][/color]
+Description: [form]
+Personnel At Fault: [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

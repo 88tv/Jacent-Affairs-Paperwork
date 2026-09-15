@@ -1,0 +1,30 @@
+# IA-ASC-01 Aegis Personnel Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#cb0000]Aegis Personnel[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#cb0000]ASC-01[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to [color=#cb0000]Aegis Personnel[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to [color=#cb0000]Aegis Personnel[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Aegis Personnel[/head][/color]
+[check] 1. The [color=#cb0000]Aegis Personnel[/color] failed to obey the [color=#1b67a5]Captain[/color] over all other authorities.
+[check] 2a. The [color=#cb0000]Aegis Personnel[/color] failed to protect the [color=#1b67a5]Captain[/color].
+[check] 2b. The [color=#cb0000]Aegis Personnel[/color] failed to protect [color=#1b67a5]Command Personnel[/color] besides the [color=#1b67a5]Captain[/color].
+[check] 2c. The [color=#cb0000]Aegis Personnel[/color] failed to protect NanoTrasen property.
+[check] 2d. The [color=#cb0000]Aegis Personnel[/color] failed to prioritize protection interests by the following order: 1. [color=#1b67a5]Captain[/color], 2. [color=#1b67a5]Command Personnel[/color], 3. NanoTrasen property.
+[check] 3. The [color=#cb0000]Aegis Personnel[/color] failed to enforce or assist in the enforcement of NanoTrasen Colonial Law.
+[check] 4. The [color=#cb0000]Aegis Personnel[/color] failed to file an arrest report upon delivering an arrestee to [color=#cb0000]Security[/color].
+[check] 5. The [color=#cb0000]Aegis Personnel[/color] failed to minimize expenses NanoTrasen takes on their behalf.
+[check] 6. The [color=#cb0000]Aegis Personnel[/color] failed to comply with NanoTrasen Personnel S.O.P.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

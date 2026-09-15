@@ -1,0 +1,25 @@
+# IA-XNT-01 Personnel Report
+[color=#886e6a]▀█▀░░░ [head=3] Personnel Report [/head]
+▄█▄▄▀▄ [bold] Report Form XNT-01 [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to all personnel. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to these generic items should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Personnel[/head][/color]
+[check] 1a. The Personnel failed to wear a uniform which corresponded to their job on the station.
+[check] 1b. The Personnel failed to make reasonable efforts to clean or replace their uniform when it has been soiled.
+[check] 2. The Personnel participated in the consumption of alcohol, tobacco, cannabis, or other recreational drugs while performing their duties.
+[check] 3. The Personnel failed to report strange or threatening items to their head of staff in a timely manner.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

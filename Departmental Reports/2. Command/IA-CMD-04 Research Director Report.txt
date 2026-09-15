@@ -1,0 +1,29 @@
+# IA-CMD-04 Research Director Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#c96dbf]Research Director[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#c96dbf]CMD-04[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#c96dbf]Research Director[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#c96dbf]Research Director[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Research Director[/head][/color]
+[check] 1a. The [color=#c96dbf]Research Director[/color] failed to maintain copies of all anomaly and artifact reports.
+[check] 1b. The [color=#c96dbf]Research Director[/color] failed to ensure that archived anomaly and artifact reports complied with [color=#c96dbf]Scientist/Research Assistant[/color] S.O.P. lines 2b and 3a.
+[check] 2a. The [color=#c96dbf]Research Director[/color] failed to ensure that damage caused by anomalies or artifacts is minimized.
+[check] 2b. The [color=#c96dbf]Research Director[/color] failed to ensure that artifacts not being studied are contained in artifact containers.
+[check] 2c. The [color=#c96dbf]Research Director[/color] failed to destroy artifacts or anomalies which have a significant risk of causing a large amount of damage to the station or station productivity.
+[check] 3. The [color=#c96dbf]Research Director[/color] failed to prioritize requests for Tier 1 and 2 technological research made by [color=#1b67a5]Command personnel[/color].
+[check] 4a. The [color=#c96dbf]Research Director[/color] failed to ensure that all automa on station are on their default lawset.
+[check] 4b. The [color=#c96dbf]Research Director[/color] failed to destroy any automa which pose a threat to NanoTrasen's business interests and create a new chassis for said automa.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].

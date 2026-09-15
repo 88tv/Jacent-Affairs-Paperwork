@@ -1,0 +1,29 @@
+# IA-SCI-01 Scientist and Research Assistant Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#c96dbf]Scientist[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#c96dbf]SCI-01[/color] [/bold]
+░░░█▀█ [bold] Author: [signature] [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#c96dbf]Scientist and Research Assistant[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#c96dbf]Scientist and Research Assistant[/color] should be detailed in full within this document.
+
+Date: 2984-[form]-[form]
+Time: [form]:[form]
+
+[color=#886e6a][head=3]Scientist and Research Assistant[/head][/color]
+[check] 1. The [color=#c96dbf]Scientist[/color] generated an anomaly without approval from the [color=#c96dbf]Research Director[/color].
+[check] 2a. The [color=#c96dbf]Scientist[/color] failed to contain or destroy anomalies found on the station in a timely manner.
+[check] 2b. The [color=#c96dbf]Scientist[/color] failed to write a valid report on anomalies they contain.
+[check] 2c. The [color=#c96dbf]Scientist[/color] failed to submit copies of valid, written anomaly reports to the [color=#c96dbf]Research Director[/color].
+[check] 3a. The [color=#c96dbf]Scientist[/color] failed to write a valid report on artifacts which research has concluded on.
+[check] 3b. The [color=#c96dbf]Scientist[/color] failed to submit copies of valid, written artifact reports to the [color=#c96dbf]Research Director[/color].
+[check] 4. The [color=#c96dbf]Scientist[/color] kept an artifact not being researched outside of an artifact container.
+[check] 5. The [color=#c96dbf]Scientist[/color] failed to ensure that at least one member of the [color=#c96dbf]Science[/color] department or an assistant hired by the [color=#c96dbf]Science[/color] department is present at the front desk.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+[form]
+
+This document is tied to report forms: [form].
